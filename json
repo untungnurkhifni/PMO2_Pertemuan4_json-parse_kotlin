@@ -1,0 +1,34 @@
+[
+	{
+		"judul": " Tuyul ",
+		"deskripsi":"In the 1970s, a group of 10 students struggles with poverty and develop hopes for the future in Gantong Village on the farming and tin mining island of Belitung off the east coast of Sumatra.",
+		"rate":"7.8",
+		"kategori":"Drama",
+		"sutradara":"Andrea Hirata , Riri Riza",
+		"img":"https://m.media-amazon.com/images/M/MV5BMDc5ZTBkNjYtMzk0OS00MDQwLTgyMWUtMWU2YzhmNjJmNjIxXkEyXkFqcGdeQXVyNjQ4ODY4NzU@._V1_UY209_CR3,0,140,209_AL_.jpg"
+	},
+	{
+		"judul": " Habibie Ainun ",
+		"deskripsi":"Love story between Indonesia's third president- World's famous Engineer B.J Habibie and his wife Ainun.",
+		"rate":"7.6",
+		"kategori":"Biography,Drama,Romance",
+		"sutradara":"Faozan Rizal",
+		"img":"https://m.media-amazon.com/images/M/MV5BMDQyZjdmZmYtZGViNC00ZGFkLWIxYjktNTI1YTc4YzJiMzM0XkEyXkFqcGdeQXVyMzA1NTc1NDk@._V1_UY209_CR1,0,140,209_AL_.jpg"
+	},
+	{
+		"judul": " 5 CM ",
+		"deskripsi":"Five best friends try to find out what true friendship is by climbing the highest peak in Java.",
+		"rate":"7.2",
+		"kategori":"Adventure,Drama,Romance",
+		"sutradara":"Rizal Mantovani",
+		"img":"https://m.media-amazon.com/images/M/MV5BNmNkY2JiMWQtMDBhYy00YmQ3LTkwMTItZWY5NzJkZTQ2MThhXkEyXkFqcGdeQXVyNjU3MTA2OTQ@._V1_UX140_CR0,0,140,209_AL_.jpg"
+	},
+	{
+		"judul": " Sang Pemimpi ",
+		"deskripsi":"Five best friends try to find out what true friendship is by climbing the highest peak in Java.",
+		"rate":"6.9",
+		"kategori":"Drama",
+		"sutradara":"Riri Riza",
+		"img":"https://m.media-amazon.com/images/M/MV5BODBiYWI2YzYtOTQ3NC00OWJmLWI0YzYtYmNhMTM1MDkxYTJmXkEyXkFqcGdeQXVyNjc2NDg5OTg@._V1_UY209_CR3,0,140,209_AL_.jpg"
+	}
+]
